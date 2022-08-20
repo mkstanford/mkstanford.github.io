@@ -1,0 +1,10 @@
+baseURL = 'https://mkstanford.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-theme-stack"
+enableEmoji = true
+
+[params]
+title = "Meenakshi Blog"
+author = "Meenakshi"
+description = "Fun with data"
